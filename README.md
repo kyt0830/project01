@@ -101,7 +101,7 @@ cd project01
 - **📑기획서(피그마 PPT Slide)**:[figma Slides](https://www.figma.com/deck/dsNqJRiqx2yZj6nN1fsHGp/1%EC%B0%A8-%EB%A1%9C%EB%A0%88%EC%95%8C-%EB%A6%AC%EB%89%B4%EC%96%BC-PPT?node-id=1-805&t=3mhFodHZRL7Ie5dS-1)
 
 ### 7.1 🖼️미리보기
-[![미리보기](./images/thumbnail.png)]
+![미리보기](./images/thumbnail.png)
 
 ---
 ## 8. 🗓️마일스톤
